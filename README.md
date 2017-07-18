@@ -1,5 +1,5 @@
 # Practica
 
 ## Contenido
-1.Portada
-2.Introducción
+1.- Portada
+2.- Introducción
